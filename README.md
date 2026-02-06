@@ -26,5 +26,5 @@ I'm currently working through the Scrimba Solo Projects. Once I’ve polished my
 
 ## Certifications
 Currently working toward the Scrimba Full-Stack Developer Career Path certification.
-[![Certificate]()
+
 
